@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="OE-GitHub-README-1200x400.png" width="100%">
+  <img src="assets/OE-GitHub-README-1200x400.png" width="100%">
        alt="O_Eriksen"
        width="100%">
 </p>
