@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/OE-GitHub-README-1200x400.png"
+       alt="O_Eriksen"
+       width="100%">
+</p>
+
 - 👋 Hello, I’m @OEriksen85
 - 👀 I’m interested in coding and FiveM developing.
 - 🌱 I’m currently learning lua, nui shit, and other things!
